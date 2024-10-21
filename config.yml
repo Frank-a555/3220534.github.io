@@ -4,4 +4,9 @@ SEOTitle: 我的空间 | My Space
 header-image: images/spsyha0jrk5.jpg  	
 email: zhegao@ln.hk	
 description: "Bugatti历史与延展-《涨知识啦》"  		
-url: "https://3220534.github.io"     
+url: "https://3220534.github.io"    
+
+# Sidebar settings
+sidebar: true                          
+sidebar-about-description: "布加迪YYDS"
+sidebar-avatar:/images/wa13jxxyxsb.JPG      # 你的个人头像 这里你可以改成我在img文件夹中的两张备用照片 img/avatar-m 或 avatar-g
